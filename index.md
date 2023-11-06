@@ -2,35 +2,42 @@
 
 layout: col-sidebar
 title: OWASP Algiers
-tags: example-tag
+tags: algiers-tag
+level: 0
 region: Africa
-meetup-group:
+country: Algeria
+meetup-group: N/A
 
 ---
 
-<div style='color:red;'>
-
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-<ul>
-<li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
-
-<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
-
-<li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
-
-<li>region: This is the region you are in according to our data</li>
-
-<li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
-</ul>
-
-</div>
-
 ## Welcome
-Include some information here about your chapter
 
-## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+Welcome to OWASP Algiers Chapter. Our mission is to enrich Algeria's application security community and cybersecurity landscape. We invite you to join us in achieving this goal.
+
+We are delighted to welcome you to the OWASP Algiers Chapter, your gateway to the world of application security and cybersecurity in Algeria.
+
+Our mission is to enrich Algeria's application security community and strengthen the cybersecurity landscape across the nation. With a commitment to knowledge sharing, collaboration, and cutting-edge practices, we aim to empower individuals and organizations in their journey towards robust cybersecurity.
+
+At OWASP Algiers Chapter, we believe in the power of collective knowledge and the importance of building a strong cybersecurity community. Our events, workshops, and activities are designed to provide a platform for professionals, enthusiasts, and beginners to learn, connect, and contribute to the ever-evolving field of cybersecurity.
+
+We hope you can join us in accomplishing this mission. Whether you are an experienced cybersecurity expert or someone new to the field, there's a place for you here. Together, we can make a difference in the security landscape of Algeria.
+
+Stay tuned for upcoming events, educational resources, and opportunities to connect with like-minded individuals. Your participation is the key to our collective success. Let's secure Algeria's digital future, one step at a time.
+
+Join us on this exciting journey towards a more secure and resilient cybersecurity ecosystem in Algeria. Together, we can achieve great things in the world of application security and cybersecurity.
+
+Welcome to OWASP Algiers Chapter!
+
+### Call For Speakers
+
+With the OWASP Algiers, we aim to organize at least 4 local chapter meetings per year. If you would like to present a talk on Application Security or Cybersecurity at future OWASP Algiers Chapter events, feel free to reach out to us and let us know - we'd love to have you join us!
+
+### Code of Conduct
+
+We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP is a comfortable and welcoming community for everyone. Please reach out to one of our chapter leaders if you have any feedback or would like to speak to us, we take these matters very seriously.
+
+### Participation
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software specifically, information security and cybersecurity in general. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in joining or contributing.
 
 Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
 
@@ -39,48 +46,3 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
-
-<!-- You should delete this comment
-
-Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-{front matter for this file}
-
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
-
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
-
-## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
-
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-## Next Meeting/Event
----------------------
-{% comment %}
-{% include chapter_events.html group=page.meetup-group %}
-{% endcomment %}
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
