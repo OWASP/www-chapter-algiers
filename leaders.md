@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Taher Amine Elhouari](mailto:taheramine.elhouari@owasp.org)
+* [Abderrauof Benkaida](mailto:abderrauof.benkaida@owasp.org)
