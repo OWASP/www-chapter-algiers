@@ -1,5 +1,5 @@
 ---
-title: team
+title: chapterteam
 displaytext: Chapter Team
 layout:  null
 tab: true
