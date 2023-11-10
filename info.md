@@ -4,6 +4,7 @@
 * [Meetup](https://www.meetup.com/)
 * [EventBrite](https://www.eventbrite.com/)
 * [Facebook](https://www.facebook.com/OWASP.Algiers/)
+* [Instagram](https://www.instagram.com/OWASP.Algiers/)
 * [Twitter](https://twitter.com/OWASP_Algiers)
 * [LinkedIn](https://www.linkedin.com/company/owasp-algiers/)
 * [YouTube](https://www.youtube.com/@OWASP.Algiers)
