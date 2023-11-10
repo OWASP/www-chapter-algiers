@@ -9,13 +9,9 @@ tags: algiers-tag
 ---
 
 ## Upcoming Event - DATE - EVENT-TITLE
-### Program: BLABLABLA
+### Program: COMING SOOOOOOOON
 
-BLABLABLA
-BLABLABLABLA
-BLABLABLABLABLA
-BLABLABLABLABLABLA
-BLABLABLABLABLABLABLA
+COMING SOOOOOOOON
 
 ### Mandatory:
 Conditions in order to validate your participation to this event:
