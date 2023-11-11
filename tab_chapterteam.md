@@ -22,5 +22,11 @@ The chapter leadership board is as follows:
     <tr><td>Chapter Co-Leader</td>
       <td>The second central point of contact for the Chapter. Serves as Chapter Co-Leader and Chapter Board Vice-Chair.</td>
       <td>Abderraouf BENKAIDA</td></tr>
+          <tr><td>Chapter Board Member</td>
+      <td>Serves as Chapter Board Member.</td>
+      <td>Hichem BELGUENDOUZ</td></tr>
+          <tr><td>Chapter Board Member</td>
+      <td>Serves as Chapter Board Member.</td>
+      <td>Bachir BENYAMMI</td></tr>
 </table>
 <hr/>
