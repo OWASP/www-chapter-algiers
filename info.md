@@ -1,7 +1,7 @@
 ![LOGO](assets/images/OWASP%20Algiers%20New%20Logo.jpg)
 
 ### Algiers Information
-* [Meetup](https://www.meetup.com/algiers-open-source-meetup-group/)
+* [Meetup](https://www.meetup.com/owasp-algiers-chapter/)
 * [Facebook](https://www.facebook.com/OWASP.Algiers/)
 * [Instagram](https://www.instagram.com/OWASP.Algiers/)
 * [Twitter](https://twitter.com/OWASP_Algiers)
