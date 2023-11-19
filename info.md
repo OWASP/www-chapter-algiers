@@ -1,4 +1,4 @@
-![LOGO](assets/images/OWASP%20Algiers%20Banner.jpg)
+![LOGO](assets/images/OWASP%20Algiers%20Banner-CMPRSD.png)
 
 ### Algiers Information
 * [Meetup](https://www.meetup.com/algiers-open-source-meetup-group/)
