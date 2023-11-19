@@ -28,5 +28,8 @@ The chapter leadership board is as follows:
           <tr><td>Chapter Board Member</td>
       <td>Serves as Chapter Board Member.</td>
       <td>Bachir BENYAMMI</td></tr>
+            <tr><td>Chapter Board Member</td>
+      <td>Serves as Chapter Board Member.</td>
+      <td>Abdelbasset ZERROUKI</td></tr>
 </table>
 <hr/>
