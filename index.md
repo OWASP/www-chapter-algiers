@@ -13,7 +13,7 @@ meetup-group: N/A
 ## Welcome
 
 We are delighted to welcome you to the OWASP Algiers Chapter, your gateway to the world of application security and cybersecurity in Algeria.
-
+![LOGO](assets/images/OWASP%20Algiers%20Banner-CMPRSD.png)
 Our mission is to enrich Algeria's application security community and strengthen the cybersecurity landscape across the nation. With a commitment to knowledge sharing, collaboration, and cutting-edge practices, we aim to empower individuals and organizations in their journey towards robust cybersecurity.
 
 At OWASP Algiers Chapter, we believe in the power of collective knowledge and the importance of building a strong cybersecurity community. Our events, workshops, and activities are designed to provide a platform for professionals, enthusiasts, and beginners to learn, connect, and contribute to the ever-evolving field of cybersecurity.
