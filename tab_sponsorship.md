@@ -10,7 +10,7 @@ tags: algiers-tag
 
 ## Sponsorship Opportunities with our Chapter ##
 
-The Algiers OWASP Chapter can offer your company several sponsorship opportunities. If you are interested in taking advantage in any of these opportunities, please contact the chapter leaders.
+The Algiers OWASP Chapter can offer your company several sponsorship opportunities. If you are interested in taking advantage in any of these opportunities, please contact the chapter leaders. Reach out: Algiers-Leaders@OWASP.org
 
 <hr/>
 
