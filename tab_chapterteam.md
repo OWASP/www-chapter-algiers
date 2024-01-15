@@ -16,7 +16,7 @@ The chapter leadership board is as follows:
   <tr><th>Chapter Leadership Board Members Role</th>
       <th width="50%">Responsibilities</th>
       <th>Full Name</th></tr>
-  <tr><td>Chapter Leader and Founder</td>
+  <tr><td>Chapter Founder and Leader</td>
       <td>The central point of contact for the Chapter and head of the OWASP Algiers Board. Serves as Chapter Leader and Chapter Board Chair.</td>
       <td>Taher Amine ELHOUARI</td></tr>
     <tr><td>Chapter Co-Leader</td>
@@ -27,9 +27,9 @@ The chapter leadership board is as follows:
       <td>Hichem BELGUENDOUZ</td></tr>
           <tr><td>Chapter Board Member</td>
       <td>Serves as Chapter Board Member.</td>
-      <td>Bachir BENYAMMI</td></tr>
+      <td>Abdelbasset ZERROUKI</td></tr>
             <tr><td>Chapter Board Member</td>
       <td>Serves as Chapter Board Member.</td>
-      <td>Abdelbasset ZERROUKI</td></tr>
+      <td>Mehdi Nacer KERKAR</td></tr>
 </table>
 <hr/>
