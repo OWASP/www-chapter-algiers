@@ -45,5 +45,4 @@ The chapter leadership board is as follows:
       <td>Serves as Communications and Community Manager.</td>
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/hichamberbache/">Hicham BERBACHE</a></td>
       
-</table>
 <hr/>
