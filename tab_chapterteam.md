@@ -25,6 +25,10 @@ The chapter leadership board is as follows:
       <td>Serves as Chapter Co-Leader and Chapter Board Vice-President.</td>
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/abderraouf-benkaida/">Abderraouf BENKAIDA</a></td>
 
+ <tr><td>Chapter Board Advisor</td>
+      <td>Serves as Chapter Board Advisor.</td>
+      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/mehdi-nacer-kerkar-cyber-security-consultant/">Mehdi Nacer KERKAR</a></td>
+
   <tr><td>Chapter Board Member</td>
       <td>Serves as Chapter Board Member.</td>
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/hvb-xx7/">Hichem BELGUENDOUZ</a></td>
@@ -35,14 +39,15 @@ The chapter leadership board is as follows:
 
   <tr><td>Chapter Board Member</td>
       <td>Serves as Chapter Board Member.</td>
-      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/mehdi-nacer-kerkar-cyber-security-consultant/">Mehdi Nacer KERKAR</a></td>
-
-  <tr><td>Chapter Board Member</td>
-      <td>Serves as Chapter Board Member.</td>
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/meriem-marwa-mahdi-579b09168/">Meriem Marwa MAHDI</a></td>
+    
+ <tr><td>Chapter Board Member</td>
+      <td>Serves as Chapter Board Member.</td>
+      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/yasmine-azzaz-533aaa91/">Yasmine AZZAZ</a></td>
 
   <tr><td>Community Manager</td>
       <td>Serves as Communications and Community Manager.</td>
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/hichamberbache/">Hicham BERBACHE</a></td>
+
       
 <hr/>
