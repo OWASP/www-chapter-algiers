@@ -8,7 +8,7 @@
 * [LinkedIn](https://www.linkedin.com/company/owasp-algiers/)
 * [YouTube](https://www.youtube.com/@OWASP.Algiers)
 * [GitHub](https://github.com/OWASP/www-chapter-algiers/)
-* [Slides and Presentations](https://github.com/OWASP/www-chapter-algiers/tree/master/assets/slides-presentations)
+* [Slides and Presentations](https://github.com/OWASP/www-chapter-algiers/tree/main/Slides)
 
 ### OWASP Information
 * [Become an OWASP Member](https://www.owasp.org/index.php/Membership)
