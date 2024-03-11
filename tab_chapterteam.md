@@ -45,9 +45,17 @@ The chapter leadership board is as follows:
       <td>Serves as Chapter Board Member.</td>
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/yasmine-azzaz-533aaa91/">Yasmine AZZAZ</a></td>
 
+  <tr><td>Chapter Board Member</td>
+      <td>Serves as Chapter Board Member.</td>
+      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/wissam-bouattou/">Wissam BOUATTOU</a></td>
+
   <tr><td>Community Manager</td>
       <td>Serves as Communications and Community Manager.</td>
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/hichamberbache/">Hicham BERBACHE</a></td>
+
+  <tr><td>Graphics Designer</td>
+      <td>Serves as UI/UX & Graphics Designer.</td>
+      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/">Iyad HAMOUDI</a></td>
 
       
 <hr/>
