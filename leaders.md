@@ -2,7 +2,7 @@
 
 * [Taher Amine ELHOUARI](mailto:Taher.AmineElhouari@owasp.org)
 * [Hichem Belguendouz](mailto:hichem.belguendouz@owasp.org)
-* [Mehdi Nacer Kerar](mailto:mehdi.kerar@owasp.org)
+* [Mehdi Nacer Kerkar](mailto:mehdi.kerkar@owasp.org)
 
 
 ### Twitter Feed
