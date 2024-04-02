@@ -1,7 +1,8 @@
 ### Leaders
 
 * [Taher Amine ELHOUARI](mailto:Taher.AmineElhouari@owasp.org)
-* [Abderraouf BENKAIDA](mailto:Abderraouf.Benkaida@owasp.org)
+* [Hichem Belguendouz](mailto:hichem.belguendouz@owasp.org)
+* [Mehdi Nacer Kerar](mailto:mehdi.kerar@owasp.org)
 
 
 ### Twitter Feed
