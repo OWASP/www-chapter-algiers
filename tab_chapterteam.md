@@ -22,24 +22,20 @@ The chapter board is as follows:
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/MrTaherAmine/">Taher Amine ELHOUARI</a></td>
 
   <tr><td>Vice President / Co-Leader </td>
-      <td>Serves as Chapter Co-Leader and Board Vice-President.</td>
+      <td>Serves as Vice-President and Operations Manager.</td>
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/hvb-xx7/">Hichem BELGUENDOUZ</a></td>
     
  <tr><td>Board Advisor / Co-Leader </td>
-      <td>Serves as Chapter Co-Leader and Board Advisor.</td>
+      <td>Serves as Board Advisor and Events Manager.</td>
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/mehdi-nacer-kerkar-cyber-security-consultant/">Mehdi Nacer KERKAR</a></td>
-    
-  <tr><td>Board Member / Co-Leader </td>
-      <td>Serves as Chapter Co-Leader and Board Member.</td>
-      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/abderraouf-benkaida/">Abderraouf BENKAIDA</a></td>
-   
-  <tr><td>Board Member</td>
-      <td>Serves as Chapter Board Member.</td>
-      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/abdelbasset-zerrouki-34b10710/">Abdelbasset ZERROUKI</a></td>
 
-  <tr><td>Board Member</td>
-      <td>Serves as Chapter Board Member.</td>
+  <tr><td>Board Secretary</td>
+      <td>Serves as Chapter Board Member and General Secretary.</td>
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/meriem-marwa-mahdi-579b09168/">Meriem Marwa MAHDI</a></td>
+    
+  <tr><td>Board Member</td>
+      <td>Serves as Chapter Board Member and Content Manager.</td>
+      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/wissam-bouattou/">Wissam BOUATTOU</a></td>
     
  <tr><td>Board Member</td>
       <td>Serves as Chapter Board Member.</td>
@@ -47,7 +43,7 @@ The chapter board is as follows:
 
   <tr><td>Board Member</td>
       <td>Serves as Chapter Board Member.</td>
-      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/wissam-bouattou/">Wissam BOUATTOU</a></td>
+      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/abdelbasset-zerrouki-34b10710/">Abdelbasset ZERROUKI</a></td>
 
   <tr><td>Board Member</td>
       <td>Serves as Chapter Board Member.</td>
