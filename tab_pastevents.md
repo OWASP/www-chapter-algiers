@@ -12,6 +12,22 @@ tags: algiers-tag
 
 ---
 
+## Past Event: OWASP Algiers | Whoami to ROOT: Your Guide Beyond Hacking Web Applications (Friday, April 26, 2024)
+### Event Details (Online Webinar): Join us for an immersive session where we'll delve deep into the realm of Linux privilege escalation. From understanding the intricacies of command injection to mastering the art of gaining root access, this webinar is your ultimate guide in navigating the complex landscape of cybersecurity.
+[OWASP Algiers | Whoami to Root: Your Guide Beyond Hacking Web Applications by @iamnasef](https://www.youtube.com/watch?v=LeqWJyqfxj4)
+
+## Past Event: OWASP Algiers Chapter @ Radio Medea | Information and Cyber Security (Thursday, April 25, 2024)
+### Event Details (Online Webinar): Discussion and podcast about different aspects, challenges, and best practices for information security and especially cyber security in Algeria and worldwide!
+[OWASP Algiers Chapter @ Radio Medea | Information and Cyber Security](https://www.youtube.com/watch?v=DAVAsRPdY-c)
+
+## Past Event: TID: TechVerse Intelligence Day | CyberSecurity with OWASP Algiers (Saturday, April 20, 2024)
+### Event Details (Onsite Event): We're excited to announce our collaboration with TechVerse Club for TID "Techverse Intelligence Day". Join us for an exciting event focused on cybersecurity, where participants will gain access to the latest ideas and practical knowledge to protect digital assets effectively.
+[Techverse Intelligence Day (CyberSecurity Event) by OWASP Algiers & Techverse Club - Media Coverage](https://www.youtube.com/watch?v=zQaTIzRF5Wc)
+
+## Past Event: OWASP Algiers @ SecuriCON | Securing Multi-Cloud Environments: Best Practices & Challenges (Friday, April 19, 2024)
+### Event Details (Conference): We present to you our conference session, where we'll delve into the intricate world of securing multi-cloud environments. Organizations nowadays are increasingly adopting multi-cloud architectures to leverage the strengths of different cloud service providers, enhance scalability, and optimize costs.  However, with the benefits of multi-cloud come unique security challenges that must be addressed to safeguard sensitive data, mitigate cyber risks, and ensure regulatory compliance. Led by industry expert, this session promises to be an invaluable journey into understanding the complexities and nuances of multi-cloud security.
+[OWASP Algiers @ SecuriCON | Securing Multi-Cloud Environments: Best Practices & Challenges](https://www.youtube.com/watch?v=vqNu_rBd1lo)
+
 ## Past Event: Exploring CyberSecurity Careers & Certifications | OWASP Algiers (Saturday, February 24, 2024)
 ### Event Details: 🚀 Exploring CyberSecurity Careers & Certifications | OWASP Algiers 🛡️💻
 [https://www.youtube.com/watch?v=sY_i6xvWQRs](https://www.youtube.com/watch?v=sY_i6xvWQRs)
@@ -56,5 +72,4 @@ Together, let's make a difference. 🌟🇩🇿
 ### Event Details: Welcome to OWASP Algiers Chapter introductory webinar to introduce the global OWASP Foundation, the Algerian Chapter, the Chapter Team, Projects and Webinars that we will organize in the future.
 https://www.youtube.com/watch?v=qE0x9rpY370
 
-[Back to Top](#past-events)
 
