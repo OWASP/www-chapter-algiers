@@ -53,9 +53,5 @@ The chapter board is as follows:
       <td>Serves as Communications and Community Manager.</td>
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/hichamberbache/">Hicham BERBACHE</a></td>
 
-  <tr><td>Graphics Designer</td>
-      <td>Serves as UI/UX & Graphics Designer.</td>
-      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/">Iyad HAMOUDI</a></td>
-
       
 <hr/>
