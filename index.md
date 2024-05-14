@@ -6,7 +6,7 @@ tags: algiers-tag
 level: 0
 region: Africa
 country: Algeria
-meetup-group: N/A
+meetup-group: owasp-algiers-chapter
 
 ---
 
