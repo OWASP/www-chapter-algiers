@@ -12,6 +12,18 @@ tags: algiers-tag
 
 ---
 
+## Past Event: OWASP Algiers | DevSecOps : Bridging DevOps and Security (Friday, June 14, 2024)
+### Event Details (Online Webinar): Join us for an exclusive webinar on "DevSecOps: Bridging DevOps and Security" on 14th June 2024 at 19:00 GMT+1. Learn from industry expert Djelloul Bouida about integrating security into your DevOps workflow.
+[OWASP Algiers Webinar | DevSecOps: Bridging DevOps & Security by Djelloul BOUIDA](https://youtu.be/jSQ0YmcTVLM)
+
+## Past Event: OWASP Algiers | Free Training Initiative - ISC2 Certified in CyberSecurity "CC" (Saturday, May 25, 2024)
+### Event Details (Online Training): Taher Amine ELHOUARI - CISSP, CCISO, eCPPT, CCSP, ISOxx, QCS, CEH, CPTA, CAP, CC, mMBA serves as the President of the OWASP Algiers Chapter, President of CSA Algeria Chapter leveraging his expertise to foster cybersecurity awareness and collaboration within the community. Simultaneously, he holds the esteemed position of Chief Information Security Officer (CISO) for Africa and leads Global Security Operations at Brandvakt Group, ensuring robust cybersecurity strategies and operations across regions.
+[OWASP Algiers Free Training Initiative | ISC2 CC: Certified in CyberSecurity](https://www.meetup.com/owasp-algiers-chapter/events/301146140/)
+
+## Past Event: OWASP Algiers | Multi-Level Crisis Simulation (Saturday, May 11, 2024)
+### Event Details (Online Webinar): Get ready for a riveting webinar experience brought to you by OWASP Algiers Chapter! Join us as we delve into the world of cybersecurity with an exclusive session on "Multi-Level Crisis Simulation" featuring none other than Jose Julian Fuentes Medina, Cyber Security Manager at EY.
+[OWASP Algiers Webinar | Multi-Level Crisis Simulation by Jose Julian](https://www.youtube.com/watch?v=pXX877M-I4o)
+
 ## Past Event: OWASP Algiers | Whoami to ROOT: Your Guide Beyond Hacking Web Applications (Friday, April 26, 2024)
 ### Event Details (Online Webinar): Join us for an immersive session where we'll delve deep into the realm of Linux privilege escalation. From understanding the intricacies of command injection to mastering the art of gaining root access, this webinar is your ultimate guide in navigating the complex landscape of cybersecurity.
 [OWASP Algiers | Whoami to Root: Your Guide Beyond Hacking Web Applications by @iamnasef](https://www.youtube.com/watch?v=LeqWJyqfxj4)
