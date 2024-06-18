@@ -45,10 +45,6 @@ The chapter board is as follows:
       <td>Serves as Chapter Board Member.</td>
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/abdelbasset-zerrouki-34b10710/">Abdelbasset ZERROUKI</a></td>
 
-  <tr><td>Board Member</td>
-      <td>Serves as Chapter Board Member.</td>
-      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/amine-nait-ali">Amine NAIT ALI</a></td>
-
   <tr><td>Community Manager</td>
       <td>Serves as Communications and Community Manager.</td>
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/hichamberbache/">Hicham BERBACHE</a></td>
