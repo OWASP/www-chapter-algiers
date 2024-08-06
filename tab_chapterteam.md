@@ -40,7 +40,11 @@ The chapter board is as follows:
  <tr><td>Board Member</td>
       <td>Serves as Chapter Board Member.</td>
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/yasmine-azzaz-533aaa91/">Yasmine AZZAZ</a></td>
-
+   
+  <tr><td>Board Member</td>
+      <td>Serves as Chapter Board Member.</td>
+      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/fouad-belalem-647485120/">Fouad BELALEM</a></td>
+    
   <tr><td>Board Member</td>
       <td>Serves as Chapter Board Member.</td>
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/abdelbasset-zerrouki-34b10710/">Abdelbasset ZERROUKI</a></td>
