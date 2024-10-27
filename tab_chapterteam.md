@@ -33,10 +33,6 @@ The chapter board is as follows:
       <td>Serves as Chapter Board Member and General Secretary.</td>
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/meriem-marwa-mahdi-579b09168/">Meriem Marwa MAHDI</a></td>
     
-  <tr><td>Board Member</td>
-      <td>Serves as Chapter Board Member and Content Manager.</td>
-      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/wissam-bouattou/">Wissam BOUATTOU</a></td>
-    
  <tr><td>Board Member</td>
       <td>Serves as Chapter Board Member.</td>
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/yasmine-azzaz-533aaa91/">Yasmine AZZAZ</a></td>
