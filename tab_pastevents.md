@@ -14,24 +14,27 @@ tags: algiers-tag
 **Date**: Friday, October 25, 2024  
 **Event Type**: Conference  
 **Speaker**: Mehdi Kerker & Helmi Rais  
+
 **Description**: Join us for an insightful webinar on OT and Drone Security to uncover the cybersecurity challenges reshaping critical infrastructure and industrial technology. Discover how to protect OT systems in energy, manufacturing, and transportation from advanced cyber threats and learn best practices for securing interconnected environments.  
 
-[Watch Conference Session](https://www.youtube.com/watch?v=30gvG5EByHw)
+[Watch Webinar Session](https://www.youtube.com/watch?v=30gvG5EByHw)
 
 ---
 ## Unifying Web and Network Defense Mastering WAF Deployment Part 2| OWASP Algiers
 **Date**: Tuesday, October 01, 2024  
 **Event Type**: Online Training  
 **Speaker**: Mehdi Sammar  
+
 **Description**: This Training offers in-depth training on advanced WAF deployment and configuration strategies. This session focuses on enhancing both web and network defenses through hands-on exercises and real-world scenarios, equipping participants with skills to detect, block, and mitigate security threats effectively. It is ideal for professionals looking to strengthen their WAF management expertise.
 
-[Watch Webinar Recording](https://www.youtube.com/watch?v=S10K2UI6Y8s)
+[Watch Training Recording](https://www.youtube.com/watch?v=S10K2UI6Y8s)
 
 ---
 ## Identify CVE in Open Source Projects | OWASP Algiers
 **Date**: Friday, September 27, 2024  
 **Event Type**: Online Webinar  
 **Speaker**: Ahmed Hassan  
+
 **Description**: Join us for an insightful webinar where we explore how to identify Common Vulnerabilities and Exposures (CVE) in open-source projects. This session will cover methodologies for vulnerability identification, best practices for maintaining security in open-source software, and tools to assist in the process.
 
 [Watch Webinar Recording](https://youtu.be/IYowggQ4Xc4)
@@ -41,10 +44,11 @@ tags: algiers-tag
 ## Unifying Web and Network Defense Mastering WAF Deployment Part 1| OWASP Algiers
 **Date**: Tuesday, September 24, 2024  
 **Event Type**: Online Training  
-**Speaker**: Mehdi Sammar  
+**Speaker**: Mehdi Sammar 
+
 **Description**: This training session focuses on Web Application Firewalls (WAF), detailing their role in cybersecurity, how to configure them effectively, and best practices for leveraging WAFs to protect web applications from attacks. Participants will gain hands-on experience and insights into implementing WAF solutions.
 
-[Watch Webinar Recording](https://youtu.be/8htVMvIqQac)
+[Watch Training Recording](https://youtu.be/8htVMvIqQac)
 
 ---
 
@@ -52,7 +56,9 @@ tags: algiers-tag
 **Date**: Friday, June 14, 2024  
 **Event Type**: Online Webinar  
 **Speaker**: Djelloul Bouida  
-**Description**: Join us for an insightful session on integrating security into your DevOps pipeline. Learn how DevSecOps transforms your workflow by embedding security into every development phase.  
+
+**Description**: Join us for an insightful session on integrating security into your DevOps pipeline. Learn how DevSecOps transforms your workflow by embedding security into every development phase.
+
 [Watch Webinar Recording](https://youtu.be/jSQ0YmcTVLM)
 
 ---
@@ -61,7 +67,9 @@ tags: algiers-tag
 **Date**: Saturday, May 25, 2024  
 **Event Type**: Online Training  
 **Trainer**: Taher Amine ELHOUARI, CISO, CISSP, CCSP  
+
 **Description**: In collaboration with OWASP Algiers Chapter, Taher Amine ELHOUARI leads a comprehensive ISC2 CC training session. The event fosters cybersecurity awareness and skill-building, featuring hands-on experience from a global leader in security operations.  
+
 [Event Details & Recording](https://www.meetup.com/owasp-algiers-chapter/events/301146140/)
 
 ---
@@ -70,7 +78,9 @@ tags: algiers-tag
 **Date**: Saturday, May 11, 2024  
 **Event Type**: Online Webinar  
 **Speaker**: Jose Julian Fuentes Medina, Cyber Security Manager at EY  
+
 **Description**: This engaging crisis simulation webinar immerses participants in real-world scenarios, showcasing how to respond to multi-layered cyber threats effectively.  
+
 [Watch Webinar Recording](https://www.youtube.com/watch?v=pXX877M-I4o)
 
 ---
@@ -79,7 +89,9 @@ tags: algiers-tag
 **Date**: Friday, April 26, 2024  
 **Event Type**: Online Webinar  
 **Speaker**: Muhammed Nassef  
-**Description**: Dive deep into the world of Linux privilege escalation. Learn how to exploit command injections and elevate access to root in this advanced webinar for cybersecurity professionals.  
+
+**Description**: Dive deep into the world of Linux privilege escalation. Learn how to exploit command injections and elevate access to root in this advanced webinar for cybersecurity professionals. 
+
 [Watch Webinar Recording](https://www.youtube.com/watch?v=LeqWJyqfxj4)
 
 ---
@@ -87,7 +99,9 @@ tags: algiers-tag
 ## **OWASP Algiers @ Radio Medea: Information and Cyber Security**
 **Date**: Thursday, April 25, 2024  
 **Event Type**: Podcast/Webinar  
+
 **Description**: Explore the evolving challenges and best practices in information and cybersecurity, focusing on Algeria’s cyber landscape and global trends.  
+
 [Listen to the Podcast](https://www.youtube.com/watch?v=DAVAsRPdY-c)
 
 ---
@@ -95,7 +109,9 @@ tags: algiers-tag
 ## **TechVerse Intelligence Day: CyberSecurity with OWASP Algiers**
 **Date**: Saturday, April 20, 2024  
 **Event Type**: Onsite Event  
+
 **Description**: Partnering with TechVerse Club, this event delivered practical cybersecurity insights, exploring cutting-edge techniques to protect digital infrastructures.  
+
 [Watch Media Coverage](https://www.youtube.com/watch?v=zQaTIzRF5Wc)
 
 ---
@@ -104,7 +120,9 @@ tags: algiers-tag
 **Date**: Friday, April 19, 2024  
 **Event Type**: Conference  
 **Speaker**: Amine Taher Elhouari  
+
 **Description**: Discover the intricacies of securing multi-cloud environments, with a focus on best practices for risk mitigation and ensuring regulatory compliance. Led by top industry professionals, this session addressed the key challenges facing organizations adopting multi-cloud strategies.  
+
 [Watch Conference Session](https://www.youtube.com/watch?v=vqNu_rBd1lo)
 
 ---
@@ -114,8 +132,8 @@ tags: algiers-tag
 **Event Type**: Online Webinar  
 **Speakers**: 
 - Taher Amine ELHOUARI | President @ OWASP Algiers  
-- Mehdi Nacer KERKAR | Board Member @ OWASP Algiers  
-- Hichem BELGUENDOUZ | Vice President Member @ OWASP Algiers
+- Mehdi Nacer KERKAR | Advisor @ OWASP Algiers  
+- Hichem BELGUENDOUZ | Vice President @ OWASP Algiers
   
 **Description**: This webinar provided an in-depth exploration of cybersecurity careers and certifications, offering participants valuable insights into different paths within the industry, ranging from offensive and defensive security to privacy, GRC, and more.  
 
