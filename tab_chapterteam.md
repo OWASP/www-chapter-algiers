@@ -25,7 +25,7 @@ The chapter board is as follows:
       <td>Serves as Vice-President and Operations Manager.</td>
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/hvb-xx7/">Hichem BELGUENDOUZ</a></td>
     
- <tr><td>Board Advisor / Co-Leader </td>
+ <tr><td>Board Advisor</td>
       <td>Serves as Board Advisor and Events Manager.</td>
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/mehdi-nacer-kerkar-cyber-security-consultant/">Mehdi Nacer KERKAR</a></td>
 
@@ -40,11 +40,35 @@ The chapter board is as follows:
   <tr><td>Board Member</td>
       <td>Serves as Chapter Board Member.</td>
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/fouad-belalem-647485120/">Fouad BELALEM</a></td>
+  
+  <tr><td>Board Member</td>
+      <td>Serves as Chapter Board Member.</td>
+      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/abdousoudaki/">Abdou SOUDAKI</a></td>
     
   <tr><td>Board Member</td>
       <td>Serves as Chapter Board Member.</td>
-      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/abdelbasset-zerrouki-34b10710/">Abdelbasset ZERROUKI</a></td>
+      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/amar-amara/">Omar AMARA</a></td>
+      
+  <tr><td>Board Member</td>
+      <td>Serves as Chapter Board Member.</td>
+      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/adel-bourouis/">Adel BOUROUIS</a></td>
 
+  <tr><td>Board Member</td>
+      <td>Serves as Chapter Board Member.</td>
+      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/rafik-merah/">Rafik MERAH</a></td>
+
+  <tr><td>Board Member</td>
+      <td>Serves as Chapter Board Member.</td>
+      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/ahmedza0ui/">Ahmed ZAOUI</a></td>
+    
+  <tr><td>Board Member</td>
+      <td>Serves as Chapter Board Member.</td>
+      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/nadjib-boukerrouni/">Nadjib BOUKERROUNI</a></td>
+      
+  <tr><td>Board Member</td>
+      <td>Serves as Chapter Board Member.</td>
+      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/kamel-abaidi-2b8782249/">Kamel ABAIDI</a></td>
+      
   <tr><td>Community Manager</td>
       <td>Serves as Communications and Community Manager.</td>
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/hichamberbache/">Hicham BERBACHE</a></td>
@@ -52,6 +76,5 @@ The chapter board is as follows:
    <tr><td>Graphics Designer</td>
       <td>Serves as Graphics and UI/UX Designer.</td>
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/bouchra-safar-bati-43a670234/">Bouchra SAFAR-BATI</a></td>
-
       
 <hr/>
