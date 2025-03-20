@@ -24,14 +24,14 @@ The chapter board is as follows:
   <tr><td>Vice President / Co-Leader </td>
       <td>Serves as Vice-President and Operations Manager.</td>
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/hvb-xx7/">Hichem BELGUENDOUZ</a></td>
-    
- <tr><td>Board Advisor</td>
-      <td>Serves as Board Advisor and Events Manager.</td>
-      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/mehdi-nacer-kerkar-cyber-security-consultant/">Mehdi Nacer KERKAR</a></td>
 
   <tr><td>Board Secretary</td>
-      <td>Serves as Chapter Board Member and General Secretary.</td>
+      <td>Serves as Board Member and General Secretary.</td>
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/meriem-marwa-mahdi-579b09168/">Meriem Marwa MAHDI</a></td>
+
+ <tr><td>Board Member</td>
+      <td>Serves as Board Advisor and Events Manager.</td>
+      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/mehdi-nacer-kerkar-cyber-security-consultant/">Mehdi Nacer KERKAR</a></td>
     
  <tr><td>Board Member</td>
       <td>Serves as Chapter Board Member.</td>
@@ -64,10 +64,6 @@ The chapter board is as follows:
   <tr><td>Board Member</td>
       <td>Serves as Chapter Board Member.</td>
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/nadjib-boukerrouni/">Nadjib BOUKERROUNI</a></td>
-      
-  <tr><td>Board Member</td>
-      <td>Serves as Chapter Board Member.</td>
-      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/kamel-abaidi-2b8782249/">Kamel ABAIDI</a></td>
       
   <tr><td>Community Manager</td>
       <td>Serves as Communications and Community Manager.</td>
