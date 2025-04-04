@@ -43,4 +43,4 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-RSVP for upcoming events: [Meetup - OWASP Algiers](https://www.meetup.com/algiers-open-source-meetup-group/)
+RSVP for upcoming events: [Meetup - OWASP Algiers](https://www.meetup.com/owasp-algiers-chapter/)
