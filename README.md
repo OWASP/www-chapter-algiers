@@ -1,4 +1,4 @@
-![LOGO](assets/images/OWASP%20Algiers%20Banner-CMPRSD.png)
+![LOGO](assets/images/Cover.png)
 
 # www-chapter-algiers
 OWASP Algiers Chapter Repository
