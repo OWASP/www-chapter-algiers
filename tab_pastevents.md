@@ -6,13 +6,77 @@ tab: true
 order: 2
 tags: algiers-tag
 
+
 ---
 
 # OWASP Algiers - Past Events
 
+## **Laws 18-07 and 25-11: Implementing a Sovereign and Effective Cybersecurity in Compliance with Regulations**
+**Date**: Saturday, September 20, 2025  
+**Event Type**: Conference  
+**Speaker**: Taher Elhouari Amine & Malek Mohamed & El Mehdi Zakaria  
+
+**Description**: We gathered experts to exchange on the challenges and opportunities of implementing Law 18-07 and its update 25-11.
+
+Through expert conferences and a panel discussion, we explored:
+✔ Legal frameworks (Law 18-07 & 25-11)
+✔ National baseline (RNSI)
+✔ International standards (ISO 27001 / 27701)
+✔ Cloud & Application Security (CSA & OWASP frameworks).  
+
+[For More Details](https://www.linkedin.com/posts/owasp-algiers_owasp-community-cybersecurity-activity-7375882173784162304-29Gu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACi0_BgBopPt7qHTce2lBwDVmWNtHTXq5mA)
+
+
+---
+## **Cybersecurity Foundations for the Digital Generation: From Curiosity to Capability**
+**Date**: Thursday , July 31, 2025  
+**Event Type**: Conference  
+**Speaker**: Taher Elhouari Amine   
+
+**Description**: Owasp Algiers successfully delivers a 4-hour cybersecurity conference at the techzone club Summer Camp this Thursday, July 31st in Sétif.
+This conference reflects the OWASP® Foundation mission of:
+- Educating and empowering developers and tech enthusiasts
+- Promoting secure coding and application security practices
+- Building a security-aware community for tomorrow’s builders
+
+[For More Details](https://www.linkedin.com/posts/owasp-algiers_owasp-owaspalgiers-cyberawareness-activity-7356319804405735424-izkI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACi0_BgBopPt7qHTce2lBwDVmWNtHTXq5mA)
+
+---
+## **Cybersecurity Communication Day**
+**Date**: Tuesday, May 20, 2025  
+**Event Type**: Conference  
+**Speaker**: Taher Elhouari Amine   
+
+**Description**: The OWASP Algiers Chapter proudly participated in the Cybersecurity Communication Day at the Army’s Site Club in Ain Naadja.
+
+Held under the high patronage of Major General Belkacem Hassanat, and in the presence of Ms. Maryam Ben Mouloud, High Commissioner for Digitalization and President of the ANPDP, along with senior military and national figures, the event highlighted Algeria’s commitment to advancing cybersecurity.
+
+Our contribution focused on:
+• The importance of open-source frameworks such as OWASP Top 10, ASVS, and SAMM.
+• The role of community-driven knowledge in building secure digital ecosystems for nations and public institutions.
+
+[For More Details](https://www.linkedin.com/posts/owasp-algiers_owasp-owaspalgiers-taheramineelhouari-activity-7332044267407691777-my9G?utm_source=share&utm_medium=member_desktop&rcm=ACoAACi0_BgBopPt7qHTce2lBwDVmWNtHTXq5mA)
+
+---
+## **DDoS Attacks and Mitigation**
+**Date**: Tuesday, May 20, 2025  
+**Event Type**: Conference  
+**Speaker**: Taher Elhouari Amine   
+
+**Description**: The OWASP Algiers Chapter proudly participated in the Cybersecurity Communication Day at the Army’s Site Club in Ain Naadja.
+
+Held under the high patronage of Major General Belkacem Hassanat, and in the presence of Ms. Maryam Ben Mouloud, High Commissioner for Digitalization and President of the ANPDP, along with senior military and national figures, the event highlighted Algeria’s commitment to advancing cybersecurity.
+
+Our contribution focused on:
+• The importance of open-source frameworks such as OWASP Top 10, ASVS, and SAMM.
+• The role of community-driven knowledge in building secure digital ecosystems for nations and public institutions.
+
+[For More Details](https://www.linkedin.com/posts/owasp-algiers_owasp-owaspalgiers-taheramineelhouari-activity-7332044267407691777-my9G?utm_source=share&utm_medium=member_desktop&rcm=ACoAACi0_BgBopPt7qHTce2lBwDVmWNtHTXq5mA)
+
+---
 ## **OWASP Algiers @ OWASP Tunisia: IOT & OT Security**
 **Date**: Friday, October 25, 2024  
-**Event Type**: Conference  
+**Event Type**: On Site Conference  
 **Speaker**: Mehdi Kerker & Helmi Rais  
 
 **Description**: Join us for an insightful webinar on OT and Drone Security to uncover the cybersecurity challenges reshaping critical infrastructure and industrial technology. Discover how to protect OT systems in energy, manufacturing, and transportation from advanced cyber threats and learn best practices for securing interconnected environments.  
