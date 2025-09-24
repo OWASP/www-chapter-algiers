@@ -19,10 +19,10 @@ tags: algiers-tag
 **Description**: We gathered experts to exchange on the challenges and opportunities of implementing Law 18-07 and its update 25-11.
 
 Through expert conferences and a panel discussion, we explored:
-✔ Legal frameworks (Law 18-07 & 25-11)
-✔ National baseline (RNSI)
-✔ International standards (ISO 27001 / 27701)
-✔ Cloud & Application Security (CSA & OWASP frameworks).  
+- Legal frameworks (Law 18-07 & 25-11)
+- National baseline (RNSI)
+- International standards (ISO 27001 / 27701)
+- Cloud & Application Security (CSA & OWASP frameworks).  
 
 [For More Details](https://www.linkedin.com/posts/owasp-algiers_owasp-community-cybersecurity-activity-7375882173784162304-29Gu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACi0_BgBopPt7qHTce2lBwDVmWNtHTXq5mA)
 
@@ -61,17 +61,16 @@ Our contribution focused on:
 ## **DDoS Attacks and Mitigation**
 **Date**: Tuesday, May 20, 2025  
 **Event Type**: Conference  
-**Speaker**: Taher Elhouari Amine   
+**Speaker**: Taher Elhouari Amine, Hichem Belguendouz   
 
-**Description**: The OWASP Algiers Chapter proudly participated in the Cybersecurity Communication Day at the Army’s Site Club in Ain Naadja.
+**Description**: OWASP Algiers Chapter was proudly represented at the NexZeroFTC Event, in collaboration with Nexus Security Club and Future Tech Club | FTC.
 
-Held under the high patronage of Major General Belkacem Hassanat, and in the presence of Ms. Maryam Ben Mouloud, High Commissioner for Digitalization and President of the ANPDP, along with senior military and national figures, the event highlighted Algeria’s commitment to advancing cybersecurity.
+Our board members actively contributed to this important cybersecurity gathering:
+• Hichem Belguendouz, Vice President, delivered an insightful conference on “DDoS Attacks and Mitigation”, shedding light on the evolving threat landscape and effective defense strategies.
 
-Our contribution focused on:
-• The importance of open-source frameworks such as OWASP Top 10, ASVS, and SAMM.
-• The role of community-driven knowledge in building secure digital ecosystems for nations and public institutions.
+The session concluded with an open Q&A, where participants engaged in valuable exchanges, reflecting the strong interest and curiosity of the community.
 
-[For More Details](https://www.linkedin.com/posts/owasp-algiers_owasp-owaspalgiers-taheramineelhouari-activity-7332044267407691777-my9G?utm_source=share&utm_medium=member_desktop&rcm=ACoAACi0_BgBopPt7qHTce2lBwDVmWNtHTXq5mA)
+[For More Details](https://www.linkedin.com/posts/owasp-algiers_owaspalgiers-owasp-csaalgeria-activity-7324780612630831104-INhz?utm_source=share&utm_medium=member_desktop&rcm=ACoAACi0_BgBopPt7qHTce2lBwDVmWNtHTXq5mA)
 
 ---
 ## **OWASP Algiers @ OWASP Tunisia: IOT & OT Security**
