@@ -1,0 +1,30 @@
+community:
+  - name: chapter-algiers
+    platform: slack
+    url: https://owasp.slack.com/archives/C06JADE7TED
+    description: We are delighted to welcome you to the OWASP Algiers Chapter, your gateway to the world of application security and cybersecurity in Algeria.
+leaders:
+  - name: Taher Amine ELHOUARI
+    email: Taher.AmineElhouari@owasp.org
+    github: MrTaherAmine
+  - name: Hichem BELGUENDOUZ
+    email: hichem.belguendouz@owasp.org
+    github: hvb-xx7
+location:
+  country: Algeria
+  country_code: DZ
+  region: Algiers Province
+  city: Algiers
+  latitude: 36.7729309
+  longitude: 3.0588291
+meetup_group: owasp-algiers-chapter
+name: OWASP Algiers
+repositories:
+  - name: www-chapter-algiers
+    url: https://github.com/OWASP/www-chapter-algiers
+    description: OWASP Algiers Chapter Repository
+tags:
+  - algiers-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-algiers
