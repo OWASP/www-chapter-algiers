@@ -1,8 +1,6 @@
 ### [Leaders](mailto:Algiers-Leaders@owasp.org)
 
 * [Taher Amine ELHOUARI](mailto:Taher.AmineElhouari@owasp.org)
-* [Hichem BELGUENDOUZ](mailto:hichem.belguendouz@owasp.org)
-
 
 
 ### Twitter Feed
