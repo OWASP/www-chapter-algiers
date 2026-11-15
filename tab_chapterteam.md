@@ -21,36 +21,10 @@ The chapter board is as follows:
       <td>Head of the Board. Serves as Chapter President.</td>
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/MrTaherAmine/">Taher Amine ELHOUARI</a></td>
 
-  <tr><td>Vice President / Co-Leader </td>
-      <td>Serves as Vice-President and Operations Manager.</td>
-      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/hvb-xx7/">Hichem BELGUENDOUZ</a></td>
-
-  <tr><td>Board Secretary</td>
-      <td>Serves as Board Member and General Secretary.</td>
-      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/meriem-marwa-mahdi-579b09168/">Meriem Marwa MAHDI</a></td>
-    
- <tr><td>Board Member</td>
-      <td>Serves as Chapter Board Member.</td>
-      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/yasmine-azzaz-533aaa91/">Yasmine AZZAZ</a></td>
-  
-  <tr><td>Board Member</td>
-      <td>Serves as Chapter Board Member.</td>
-      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/abdousoudaki/">Abdou SOUDAKI</a></td>
-      
   <tr><td>Board Member</td>
       <td>Serves as Chapter Board Member.</td>
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/adel-bourouis/">Adel BOUROUIS</a></td>
-
-      
- <tr><td>Board Member</td>
-      <td>Serves as Chapter Board Member.</td>
-      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/mehdizakaria/">Mehdi ZAKARIA</a></td>
-
-      
- <tr><td>Board Member</td>
-      <td>Serves as Chapter Board Member.</td>
-      <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/malek-mohamed-21b094110/">Mohamed MALEK</a></td>
-      
+    
   <tr><td>Community Manager</td>
       <td>Serves as Communications and Community Manager.</td>
       <td><a target="_blank" rel="noopener" href="https://www.linkedin.com/in/hichamberbache/">Hicham BERBACHE</a></td>
